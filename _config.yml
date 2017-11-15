@@ -1,37 +1,37 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://MilesHeise.com" # the base hostname & protocol for your site
+baseurl:                     "" # the subpath of your site, e.g. /blog/ (optional)
+url:                         "http://MilesHeise.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Miles Heise # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title:                     Miles Heise # Your name will go here
+  description:               "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
-  header_text: >
-     <h1>Put a title here</h1>
-     <p>and some stuff about me</p>
+  header_text:               >
+     <h1>What on Earth Should This Title Be?!</h1>
+     <p>A full-stack developer specializing in Ruby and JS</p>
   header_text_feature_image:
-  footer_text: >
+  footer_text:               >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
-  rss: false
-  email_address: milesheise@gmail.com
+  rss:                       false
+  email_address:             milesheise@gmail.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: MilesHeise
+  github:                    MilesHeise
   google_plus:
   instagram:
-  linkedin: https://www.linkedin.com/in/miles-heise-1a5288138/
+  linkedin:                  https://www.linkedin.com/in/miles-heise-1a5288138/
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:            # Full URL
   steam:
   tumblr:
   twitter:
@@ -39,37 +39,37 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: "UA-106160978-1"
+  google_analytics:          "UA-106160978-1"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex:                     true # Enable if using math markup
 
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Read more &raquo;"
+  str_follow_on:             "Follow on"
+  str_rss_follow:            "Follow RSS feed"
+  str_email:                 "Email"
+  str_next:                  "Next"
+  str_prev:                  "Prev"
+  str_continue_reading:      "Read more &raquo;"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
+  google_fonts:              "Lato:300,400,700,300italic,700italic|Abril+Fatface"
 
 # PAGINATION
-paginate: 100
-paginate_path: "blog/page:num"
+paginate:                    100
+paginate_path:               "blog/page:num"
 
 # COLLECTIONS
 collections:
   portfolio:
-    output: true
-    permalink: /portfolio/:path/
+    output:                  true
+    permalink:               /portfolio/:path/
 
 # BUILD SETTINGS
-markdown: kramdown
+markdown:                    kramdown
 
 sass:
-  sass_dir: _sass
-  style: :compressed
+  sass_dir:                  _sass
+  style:                     :compressed
 
-gems: [jekyll-paginate]
+gems:                        [jekyll-paginate]
