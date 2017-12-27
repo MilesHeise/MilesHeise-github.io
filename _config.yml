@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text:               >
-     <h1>What on Earth Should This Title Be?!</h1>
-     <p>A full-stack developer specializing in Ruby and JS</p>
+     <h1>Clever Solutions on Demand</h1>
+     <p>from a full-stack developer specializing in Ruby and JS</p>
   header_text_feature_image:
   footer_text:               >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.

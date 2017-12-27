@@ -2,15 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/color.png"
+feature-img: img/color.png
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+I came to software engineering in a very roundabout way. Fitting the stereotype of a smart but utterly directionless young man, I had a myriad of jobs ranging from managing a music store to being a mime in Eastern Europe. I did very technical work on fire alarm panels for a security company, and rather less technical work traveling with a carnival, and even started a successful event-planning company at one point.
 
-Jowl sirloin doner shank flank. Leberkas ham ball tip, jowl pastrami short loin pork cow. Rump ground round chuck leberkas shank picanha bacon meatloaf filet mignon. Ball tip swine brisket jowl pig sausage corned beef leberkas pastrami porchetta kevin beef. Ground round tail cupim ribeye, landjaeger meatloaf pig prosciutto. Shank sirloin porchetta frankfurter kevin corned beef ribeye rump doner. Shankle pork loin beef prosciutto short loin venison, ribeye swine kevin pastrami landjaeger ham hock alcatra sirloin ground round.
+When I married and settled down, it was with some reluctance that I decided to study computers, and I chose it for the wholly cynical reason that I knew a friend who had done it and it seemed like a fairly quick way to shift into a more stable career. To my great surprise, however, I absolutely love this work! As a naturally curious and analytical person, I found a passion for programming that I have never had for any other job.
 
-Pork chop pork belly bresaola, turducken porchetta sausage cupim pork loin bacon pancetta. Meatloaf tail frankfurter pork belly chicken. Turducken pork prosciutto, pork chop hamburger spare ribs jerky salami leberkas meatball. Tenderloin porchetta strip steak jerky, spare ribs beef ribs pork chop tail short loin sausage. Doner biltong andouille ribeye corned beef. Prosciutto boudin corned beef pork loin tail, ham picanha biltong chicken alcatra. Hamburger frankfurter bacon tail jowl filet mignon rump brisket turducken.
+I love to see how things function underneath, and this work gives me a window not only into how computers work but also how the human mind does. For instance, early in my learning I was challenged to write a program that finds the peaks in an array (the highest numbers surrounded by lower ones) and I realized that while I could do this quite easily as a human glancing at a list, I couldn't really explain how I was doing it. To solve the problem, first I figured out how my own brain was able to find these peaks so quickly, then I wrote my algorithm based on that.
 
-Biltong landjaeger swine pork sausage chicken cow cupim ham hock corned beef. Salami alcatra turkey doner rump, ribeye turducken frankfurter pork loin. Alcatra fatback strip steak, frankfurter beef ribs tail pork loin. Jerky shankle filet mignon beef ribs ham, swine sausage sirloin brisket picanha alcatra bresaola.
-
-Short ribs ham hock jerky, sausage beef ribs shoulder beef landjaeger rump sirloin leberkas flank turkey alcatra. Andouille pancetta cupim fatback sirloin landjaeger corned beef turducken tri-tip turkey capicola spare ribs. Chuck hamburger alcatra pig tongue, filet mignon rump bresaola. Porchetta corned beef alcatra beef ribs. Ham hock boudin picanha salami tri-tip ham.
+In programming, my goal is to not just be someone who uses tools, but someone who truly understands how they work, and that will be the main thrust of my posts here. If you'd like to talk, if you think we might have something to teach each other, or if you might want my help on a project, please do hit the contact button and let me know.
