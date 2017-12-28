@@ -5,7 +5,8 @@ thumbnail-path: img/blocJams.png
 short-description: Build an application to play music.
 ---
 
-{:.center} ![]({{ site.baseurl }}/img/blocJams.png)
+{:.center} 
+![]({{ site.baseurl }}/img/blocJams.png)
 
 # Explanation
 
