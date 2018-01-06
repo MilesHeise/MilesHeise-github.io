@@ -5,15 +5,16 @@ thumbnail-path: img/kele.png
 short-description: Build an application to interact with Bloc API endpoints.
 ---
 
-{:.center} ![]({{ site.baseurl }}/img/kele.png)
+{:.center} 
+![]({{ site.baseurl }}/img/kele.png)
 
 # Explanation
 
-This project entailed building an API client. This program would work directly in IRB, using the HTTParty gem. It simplifies interacting with the Bloc API endpoints, allowing you to get an auth token, then automatically use that to properly format various GET and POST requests for you to do things like submit your work or send messages through the site's internal messenger service.
+This project entailed building an API client. This program would work directly in IRB, using the HTTParty gem. It simplifies interacting with the Bloc API endpoints, allowing you to get an _`auth_token`_, then automatically use that to properly format various GET and POST requests for you to do things like submit your work or send messages through the site's internal messenger service.
 
 # Problem
 
-Some of Bloc's API endpoints have a number of optional variables. Using optional arguments in Ruby is not difficult, thankfully there are a number of ways to implement this including splat operators, default argument values, and more. However, it became more complicated because the Bloc API will throw an error response if given any nil values for fields. Your HTTP request must be formatted using only the fields you are actually using. This meant the program needed to do more significant formatting work before sending out a request.
+Some of Bloc's API endpoints have a number of optional variables. Using optional arguments in Ruby is not difficult, usually. Thankfully there are a number of ways to implement this including splat operators, default argument values, and more. However, it became more complicated because the Bloc API will throw an error response if given any nil values for fields. Your HTTP request must be formatted using only the fields you are actually using. This meant the program needed to do more significant formatting work before sending out a request.
 
 # Solution
 
