@@ -5,7 +5,8 @@ permalink: /about/
 feature-img: img/color.png
 ---
 
-{:.center} ![]({{ site.baseurl }}/img/face.png)
+{:.center} 
+![]({{ site.baseurl }}/img/face.png)
 
 I came to software engineering in a very roundabout way. Fitting the stereotype of a smart but utterly directionless young man, I had a myriad of jobs ranging from managing a music store to being a mime in Eastern Europe. I did very technical work on fire alarm panels for a security company, and rather less technical work traveling with a carnival, and even started a successful event-planning company at one point.
 
