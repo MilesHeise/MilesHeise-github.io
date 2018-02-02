@@ -5,7 +5,8 @@ thumbnail-path: img/mernTodo.png
 short-description: Build a full MERN stack app with front and back end functionality.
 ---
 
-{:.center} ![]({{ site.baseurl }}/img/mernTodo.png)
+{:.center} 
+![]({{ site.baseurl }}/img/mernTodo.png)
 
 # Explanation
 
